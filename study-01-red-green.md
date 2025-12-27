@@ -16,5 +16,10 @@ The scene is set in a sunlit parlour. The morning light streams through a lace c
 - **Titanium White** – to lighten and modulate the mixtures.
 - **Raw Umber** – a touch in the deepest shadows to anchor the composition.
 
+## Variations in Red Pigments
+The choice of red pigment influences the character of the green shadow. A warmer red, such as Cadmium Red, produces a shadow that tends toward a more olive, earthy green. A cooler red like Alizarin Crimson yields a cleaner, more transparent green, closer to a true viridian. In practice, I often layer both: Cadmium Red for the sun‑lit areas and Alizarin Crimson for the deeper, transparent shadows, thus creating a richer interplay of temperatures within the same complementary pair.
+
 ## Notes on Saturation
 The saturation of the Viridian must be adjusted according to the quality of light. In the strong, direct sunlight of the South of France, the green can be more intense and opaque. Indoors, under diffused northern light, it should be glazed thinly, allowing the underlying warmth to show through, creating a more subtle vibration.
+
+Additionally, the intensity of southern French sunlight amplifies the contrast between light and shadow, making the green shadows appear more vivid and distinct. In northern interiors, the softer light reduces contrast, requiring a more muted, greyed‑green mixture to maintain the same sense of quiet harmony.
